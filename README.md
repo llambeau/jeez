@@ -5,6 +5,12 @@ jeez helps you generating JSON documents from the command line.
 
 jeez is the perfect companion for [unix2ws]("https://github.com/llambeau/Unix2WS.js"): generate easily (basic) JSON documents and pipe them to another process... Unix in all it's glory.
 
+## Installation
+
+<pre>
+  npm install -g jeez
+</pre>
+
 ## Usage
 
 <pre>
