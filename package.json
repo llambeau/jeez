@@ -1,0 +1,27 @@
+{
+  "name": "jeez",
+  "version": "0.0.1",
+  "description": "jeez helps you generating JSON documents from the command line",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llambeau/jeez"
+  },
+  "bin": {
+    "jeez":"./bin/jeez.js"
+  },
+  "keywords": [
+    "command-line",
+    "json",
+    "document",
+    "generator"
+  ],
+  "author": "Louis Lambeau <louislambeau@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llambeau/jeez/issues"
+  },
+  "homepage": "https://github.com/llambeau/jeez",
+  "dependencies": {
+    "minimist": "0.0.7"
+  }
+}
