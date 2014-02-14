@@ -41,4 +41,4 @@ You can only generate flat documents, nested documents are not supported (yet)
 
 Well, I was using [unix2ws]("https://github.com/llambeau/Unix2WS.js") a lot today... Echo'ing JSON strings quickly started to be annoying, so I thought of a tool like this...
 
-4 lines of code later only, thanks to [minimist](https://github.com/substack/minimist) and @substack
+4 lines of code later only, thanks to [minimist](https://github.com/substack/minimist) and @substack, I had the tool I needed
